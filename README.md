@@ -1,2 +1,2 @@
-# prueba
+# Prueba
 Aprendiendo a programar.
